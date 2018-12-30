@@ -1,5 +1,5 @@
 # Random-Fireworks
-# Random-Fireworks
+I wrote and tested with python version 3.6 
 This script generates a mcfunction file to to place a randomized fireworks show
 I just have it set to run the script in your function directory
 
@@ -35,4 +35,5 @@ To link another show:
 -stand in front of the quartz block that was placed to the right of the circuit
 -reload and run the function again
 
+If you are getting unknown function, your functions might not be in the right folders, or you entered a value minecraft can't read 
 
