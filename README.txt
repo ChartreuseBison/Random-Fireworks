@@ -27,6 +27,8 @@ The circuit will be up to 8 blocks wide in the positive Z direction (Blue line i
 The circuit is only one block high, although it does place its own floor
 Be careful if you run it underground, water or lava might hit the circuit. 
 
+The function places a button to start the show, but of course you can get rid of that and link redstone power to that first repeater however you want. 
+
 I also added a linking function to the end of the show, so you can group multiple shows if you have limited X space, or want a really big number that a single function can’t place. 
 (I only tested with show length in the double digits, I take no responsibility if you enter big numbers)
 The link function places a redstone block off to the right to start another show.
