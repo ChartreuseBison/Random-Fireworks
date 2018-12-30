@@ -1,6 +1,6 @@
 # Random-Fireworks
 I wrote and tested with python version 3.6 
-This script generates a mcfunction file to to place a randomized fireworks show
+This script generates a mcfunction file to place a randomized fireworks show
 I just have it set to run the script in your function directory
 
 The default function is for the script to ask you to enter the X, Y, and Z for the launch position of the rockets. I recommend editing the script and hardcoding these values so you don't have to type them each time. Just comment out the coordinate prompts and then uncomment the hardcoded coordinate lines. Then you can add your coordinates.
@@ -36,4 +36,5 @@ To link another show:
 -reload and run the function again
 
 If you are getting unknown function, your functions might not be in the right folders, or you entered a value minecraft can't read 
+Try making a function that just has something like " say Hi " in it to make sure you have functions set up right
 
